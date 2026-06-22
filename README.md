@@ -26,3 +26,23 @@ Explore the dashboards below, Each of them has their own dedicated README file w
 
 [**View Full Project 1 Details (README)**](./Data_Jobs_v1/README.md)
 
+## Data Jobs Dashboard Version 2.0 | Power BI
+
+![Data Jobs Proj 2 png](/images/power_bi_proj_2.png)
+
+### Key Power BI Skills Demonstrated
+
+* Dashboard Design & User Experience
+* Power Query (ETL & Data Transformation)
+* Data Modeling
+* DAX Measures & KPI Reporting
+* Data Visualization
+* Interactive Reporting
+* Trend & Market Analysis
+* Dashboard Optimization
+
+[**View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md) 
+
+## About This Portfolio
+
+This portfolio showcases a collection of Power BI projects focused on data transformation, reporting, visualization, and business intelligence. Each project contains a dedicated README with detailed explanations of the dataset, objectives, techniques used, insights discovered, and key skills demonstrated.
